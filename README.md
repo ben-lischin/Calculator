@@ -7,18 +7,14 @@ Here are the accepted keyboard inputs, as well as what button they map to:\
 | Key           | Button        |
 |:-------------:|:-------------:|
 | c             | clear         |
-| col 2 is      | centered      |
-| zebra stripes | are neat      |
-
-  • c         -> clear\
-  • backspace -> del\
-  • return    -> =\
-  • 0-9       -> the corresponding number\
-  • +         -> +\
-  • -         -> -\
-  • x,*    -> ×\
-  • /         -> ÷\
-  • ^         -> ^\
-  • .         -> .\
-  • (         -> (\
-  • )         -> )
+| backspace     | del           |
+| return        | =             |
+| 0-9           | 0-9           |
+| +             | +             |
+| -             | -             |
+| x,*           | ×             |
+| /             | ÷             |
+| ^             | ^             |
+| .             | .             |
+| (             | (             |
+| )             | )             |
