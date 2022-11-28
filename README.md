@@ -13,7 +13,7 @@ Here are the accepted keyboard inputs, as well as what button they map to:
 | 0-9           | 0-9           |
 | +             | +             |
 | -             | -             |
-| x,*           | ×             |
+| x, *          | ×             |
 | /             | ÷             |
 | ^             | ^             |
 | .             | .             |
