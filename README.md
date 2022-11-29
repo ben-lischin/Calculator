@@ -1,5 +1,4 @@
-
-#[Click here to use the calculator](https://ben-lischin.github.io/Calculator/)
+[Click here to use the calculator](https://ben-lischin.github.io/Calculator/)
 
 This is a calculator app I made to learn HTML, CSS, and JavaScript.\
 You may interact with it by either clicking the buttons on the calculator, or typing through a keyboard.
