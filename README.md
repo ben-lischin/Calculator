@@ -1,4 +1,3 @@
-# Calculator
 [Click here to use the calculator](https://ben-lischin.github.io/Calculator/)
 
 This is a calculator app I made to learn HTML, CSS, and JavaScript.\
