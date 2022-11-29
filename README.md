@@ -6,7 +6,7 @@ You may interact with it by either clicking the buttons on the calculator, or ty
 Here are the accepted keyboard inputs, as well as what button they map to:
 | Key           | Button        |
 |:-------------:|:-------------:|
-| c             | clear         |
+| c             | C             |
 | backspace     | del           |
 | return        | =             |
 | 0-9           | 0-9           |
