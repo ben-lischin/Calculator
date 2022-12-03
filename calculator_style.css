@@ -30,7 +30,7 @@ body{
 }
 
 .calc-screen{
-  background: rgba(255,255,255,1);
+  background: rgba(255,255,255,.5);
   border: none;
   outline: none;
   border-radius: 15px;
@@ -57,7 +57,7 @@ body{
   outline: none;
   color: black;
   font-family: 'Trebuchet MS', sans-serif;
-  border-radius: 10px;
+  border-radius: 100px;
   flex-basis: 20%;
   height: 65px;
   font-size: 25px;
@@ -93,7 +93,7 @@ body{
   outline: none;
   color: black;
   font-family: 'Trebuchet MS', sans-serif;
-  border-radius: 10px;
+  border-radius: 15px;
   flex-basis: 33%;
   height: 65px;
   font-size: 25px;
@@ -163,7 +163,3 @@ body{
 .equals-button:active{
   background-color: pink;
 }
-
-
-
-
